@@ -1,6 +1,6 @@
 # My Talks
 
-This is a collection of talks I have given since 2019.
+This is a collection of talks I have given since 2019. A link to my work on reptiles is [here](reptiles.md).
 
 ### 2023
 
